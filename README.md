@@ -3,6 +3,9 @@ This project automates the process of booking railway tickets on the IRCTC websi
 
 <!---[![Video: ](https://i9.ytimg.com/vi_webp/l7sMBZuav2Q/mq1.webp?sqp=CPytkbMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACpgWKAgwIABABGFQgXChlMA8=&rs=AOn4CLBBDj4UAZCdufR4NASZXXI-YMbFqQ)](https://www.youtube.com/watch?v=l7sMBZuav2Q) --->
 
+[![Watch the video](https://img.youtube.com/vi/l7sMBZuav2Q/maxresdefault.jpg)](https://www.youtube.com/embed/l7sMBZuav2Q)
+
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=l7sMBZuav2Q"><img src="https://i9.ytimg.com/vi_webp/l7sMBZuav2Q/mq1.webp?sqp=CPytkbMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACpgWKAgwIABABGFQgXChlMA8=&rs=AOn4CLBBDj4UAZCdufR4NASZXXI-YMbFqQ" alt="IRCTC VIDEO"></a>
 </div>
