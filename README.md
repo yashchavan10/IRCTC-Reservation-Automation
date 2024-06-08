@@ -23,5 +23,4 @@ Java Development Kit (JDK) installed on your machine. You can download it from [
 <br />Select Run As -> Java Application.
 <br />The script will automatically navigate through the IRCTC website and perform the ticket booking process as per the given instructions.
 <br /><br /><b>Notes</b>
-<br />WebDriver Path: Ensure the path to the chromedriver.exe is correctly set in the System.setProperty("webdriver.chrome.driver", "C:\\webAutomation\\chromedriver.exe"); line.
 <br /> Replace "username" and "password" with your own IRCTC credentials.
