@@ -2,7 +2,7 @@
 This project automates the process of booking railway tickets on the IRCTC website using Python and Selenium. It streamlines the booking process by filling in the necessary details and navigating through the various steps required to complete a reservation.
 
 
-<div align="centre"><b><p>CLICK HERE TO VIEW IMPLEMENTATION VIDEO:</p></b>b> </div>
+<div align="centre"><b><p>CLICK HERE TO VIEW IMPLEMENTATION VIDEO:</p></b> </div>
   </br>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=l7sMBZuav2Q"><img src="https://i9.ytimg.com/vi_webp/l7sMBZuav2Q/mq1.webp?sqp=CPytkbMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACpgWKAgwIABABGFQgXChlMA8=&rs=AOn4CLBBDj4UAZCdufR4NASZXXI-YMbFqQ" alt="IRCTC VIDEO"></a>
