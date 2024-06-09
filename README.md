@@ -2,10 +2,10 @@
 This project automates the process of booking railway tickets on the IRCTC website using Java and Selenium. It streamlines the booking process by filling in the necessary details and navigating through the various steps required to complete a reservation.
 
 
-<div align="centre"><b><p>CLICK ON THUMBNAIL TO VIEW IMPLEMENTATION VIDEO:</p></b> </div>
+<div align="centre"><b><p>CLICK ON THUMBNAIL TO VIEW IMPLEMENTATION VIDEO ON YouTube:</p></b> </div>
   </br>
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=l7sMBZuav2Q"><img src="https://i9.ytimg.com/vi_webp/l7sMBZuav2Q/mq1.webp?sqp=CPytkbMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACpgWKAgwIABABGFQgXChlMA8=&rs=AOn4CLBBDj4UAZCdufR4NASZXXI-YMbFqQ" alt="IRCTC VIDEO"></a>
+  <a href="https://www.youtube.com/watch?v=l7sMBZuav2Q"><img src="https://github.com/yashchavan10/IRCTC-Reservation-Automation/assets/97660991/1012f124-550b-4916-87b7-0184c6f5a5e8" alt="IRCTC VIDEO"></a>
 </div>
 
 </br><b>Prerequisites
