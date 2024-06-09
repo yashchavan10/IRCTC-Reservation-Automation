@@ -1,5 +1,5 @@
 # IRCTC-Reservation-Automation
-This project automates the process of booking railway tickets on the IRCTC website using Python and Selenium. It streamlines the booking process by filling in the necessary details and navigating through the various steps required to complete a reservation.
+This project automates the process of booking railway tickets on the IRCTC website using Java and Selenium. It streamlines the booking process by filling in the necessary details and navigating through the various steps required to complete a reservation.
 
 
 <div align="centre"><b><p>CLICK ON THUMBNAIL TO VIEW IMPLEMENTATION VIDEO:</p></b> </div>
